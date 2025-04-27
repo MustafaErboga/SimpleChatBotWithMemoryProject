@@ -68,3 +68,8 @@ Chatbot: Hi there! How can I assist you today?
 - `.env.example`: Template for environment variables  
 - `requirements.txt`: Python dependencies  
 - `.gitignore`: Ignores sensitive/local files like `.env` and `.venv/`
+
+---
+🙌 Acknowledgements
+
+This project is based on an example provided by LangChain.
